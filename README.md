@@ -1,34 +1,13 @@
-# Flight Price Monitoring System
-
-A Python project to fetch flight prices, clean the data, analyze trends, and visualize results.
-
----
-
-## 🚀 Features
-- Fetch flight price data (mock or API)
-- Store raw and processed data
-- Analyze price trends
-- Visualize results with charts
-
----
-
-## ▶️ Usage
-Run the pipeline:
-```bash
-python src/main.py
-Here’s a **comprehensive GitHub README.md** you can use for your **Flight Price Monitoring System** project. It’s structured to look professional and demo‑ready:
-
----
 
 ```markdown
-# ✈️ Flight Price Monitoring System
+#  Flight Price Monitoring System
 
 A Python project to **fetch flight prices**, clean the data, analyze trends, and visualize results.  
 This pipeline is designed for **data engineering + analytics workflows**, making it easy to extend with machine learning models later.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Flight_Price_Monitoring_System/
 │
@@ -57,7 +36,7 @@ Flight_Price_Monitoring_System/
 
 ---
 
-## 🚀 Features
+##  Features
 - Fetch flight price data (mock dataset or API integration)
 - Store raw and processed data
 - Clean and preprocess flight records
@@ -67,7 +46,7 @@ Flight_Price_Monitoring_System/
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ### 1. Install dependencies
 ```bash
@@ -86,7 +65,7 @@ jupyter notebook notebooks/exploration.ipynb
 
 ---
 
-## 📊 Example Outputs
+##  Example Outputs
 
 - **Analysis Results**
   ```text
@@ -103,7 +82,7 @@ jupyter notebook notebooks/exploration.ipynb
 
 ---
 
-## 🧪 Testing
+##  Testing
 Run unit tests with:
 ```bash
 pytest tests/
@@ -111,7 +90,7 @@ pytest tests/
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 - Integrate live flight APIs for real‑time price monitoring
 - Add advanced analytics (moving averages, volatility, seasonality)
 - Build ML models for **price prediction**
@@ -119,13 +98,13 @@ pytest tests/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 Pull requests are welcome!  
 For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the MIT License — see the `LICENSE` file for details.
 ```
 

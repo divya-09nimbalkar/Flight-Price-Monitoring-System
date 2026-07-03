@@ -2,8 +2,8 @@
 ```markdown
 #  Flight Price Monitoring System
 
-A Python project to **fetch flight prices**, clean the data, analyze trends, and visualize results.  
-This pipeline is designed for **data engineering + analytics workflows**, making it easy to extend with machine learning models later.
+A Python project to fetch flight prices, clean the data, analyze trends, and visualize results.  
+This pipeline is designed for data engineering + analytics workflows, making it easy to extend with machine learning models later.
 
 
 

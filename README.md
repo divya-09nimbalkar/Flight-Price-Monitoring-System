@@ -5,10 +5,10 @@
 A Python project to **fetch flight prices**, clean the data, analyze trends, and visualize results.  
 This pipeline is designed for **data engineering + analytics workflows**, making it easy to extend with machine learning models later.
 
----
+
 
 ##  Project Structure
-```
+
 Flight_Price_Monitoring_System/
 │
 ├── data/
